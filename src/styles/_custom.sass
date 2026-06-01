@@ -184,7 +184,7 @@ figcaption
     width: 15%
 .hcard
   &-1
-    height: 400px
+    height: 170px
 .mg
   &-1
     margin-top: 2.5rem
@@ -270,6 +270,9 @@ figcaption
 @media screen and (max-width: $bp-min-xxl)
   .mb-cus
     margin-bottom: 2em  !important 
+  .hcard
+    &-1
+      height: 130px !important
 
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
@@ -279,9 +282,7 @@ figcaption
     width: 90% !important
   .bloque-texto-g 
         padding-top: 50px !important;
-  .hcard
-    &-1
-      height: auto !important
+  
   .banner-principal .tarjeta
     background-image: url(../assets/curso/portada/fondo-banner-principal-tablet.png) !important
   .wcus
@@ -290,6 +291,10 @@ figcaption
   .mg
     &-1
       margin-top: 0.5rem
+  
+  .hcard
+    &-1
+      height: auto !important
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
@@ -301,6 +306,9 @@ figcaption
   .br
     &-1,&-2,&-3,&-4
       border-radius: 0px !important
+  .hcard
+    &-1
+      height: 150px !important
   
  
   
@@ -314,5 +322,7 @@ figcaption
       width: 85%
   .banner-principal .tarjeta
     background-image: url(../assets/curso/portada/fondo-banner-principal-mobile.png) !important
-  
+  .hcard
+    &-1
+      height: auto !important
  
