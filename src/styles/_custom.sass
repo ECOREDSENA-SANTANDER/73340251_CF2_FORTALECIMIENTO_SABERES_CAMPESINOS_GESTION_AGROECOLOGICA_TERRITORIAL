@@ -123,6 +123,10 @@ figcaption
     background-color: #FFD98A
 .bloque-texto-g.color-adiconoal-2
     background-color: #A3C0AA
+.bloque-texto-g.color-adiconoal-3
+    background-color: #C3B9B2
+.bloque-texto-g.color-adiconoal-4
+    background-color: #DDA499
 
 /**************************************************************/
 /***CUSTOM STYLES***/
@@ -182,6 +186,8 @@ figcaption
     min-width: 400px;
   &-2
     width: 15%
+  &-3
+    height: 100px
 .hcard
   &-1
     height: 170px
@@ -201,7 +207,10 @@ figcaption
     display: block;
     position: absolute;
  
-    
+.fa-thread
+    content: url('../assets/curso/bg/7.svg')
+    align-self: flex-start !important
+    font-size: 12px    
 
 .titulo-tercer-nivel
   width: fit-content
@@ -261,7 +270,42 @@ figcaption
     .crd_hover_txt--body
       p
         font-size: 0.85em
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5
+    color: $color-sistema-texto
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #D1E0D4
+  @media (max-width: 1000px)
+    padding-right: 2rem
 
+.crd--first, .crd--last
+  &::before
+    background-color: #FEF4EA !important
+.crd--first
+  &::before
+    border-top-left-radius: 30px
+.crd--last
+  &::before
+    border-bottom-left-radius: 30px
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
