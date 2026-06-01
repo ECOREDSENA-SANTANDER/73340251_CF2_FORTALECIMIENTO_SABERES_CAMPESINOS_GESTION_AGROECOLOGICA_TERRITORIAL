@@ -56,6 +56,8 @@ figcaption
 .tabla-b tr:nth-child(odd), .tabla-c tr:nth-child(odd)
     background-color: #F6F6F6
 
+.tabla-a.color-acento-contenido thead
+    background-color: #E7EFE9 !important
 .acordion__accion__btn--a,
 .acordion__accion__btn--b
     background-color: $color-acento-botones !important;
@@ -88,7 +90,8 @@ figcaption
     min-width: auto
 .tabla-b.wcus-tabla td
     text-align: center
-
+.tabla-a thead
+  color: $color-sistema-texto !important
 .slyder-f__btn i
     color: $color-acento-botones
 .linea-tiempo-d .tarjeta 
@@ -115,6 +118,10 @@ figcaption
 .tarjeta-audio.color-acento-botones .tarjeta-audio__texto
     color: $color-sistema-texto
     font-style: normal !important
+
+.bloque-texto-g.color-adiconoal-1
+    background-color: #FFD98A
+
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -148,6 +155,11 @@ figcaption
     background-color: #F6E7E5
   &-5
     background-color: #fff
+  &-6
+    background-color: #D1E0D4
+  &-7
+    background-color: #D7D1CC
+    
 
 .br
   &-1
@@ -167,11 +179,7 @@ figcaption
   &-1
     min-width: 400px;
   &-2
-    width: 14%
-  &-3
-    width: 93%
-  &-4
-    width: 32px !important  
+    width: 15%
 .hcard
   &-1
     height: 400px
@@ -272,7 +280,9 @@ figcaption
       height: auto !important
   .banner-principal .tarjeta
     background-image: url(../assets/curso/portada/fondo-banner-principal-tablet.png) !important
- 
+  .wcus
+    &-2
+      width: auto
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
