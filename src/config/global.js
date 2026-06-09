@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Caracterización del sistema productivo campesino y diseño de planes de mejora.',
+    Name: 'Caracterización del sistema productivo campesino y diseño de planes de mejora',
     Description:
       'Este componente formativo aborda la caracterización del sistema productivo campesino mediante el diagnóstico participativo, integrando la economía familiar, el análisis del territorio y el uso de herramientas comunitarias. Asimismo, orienta la formulación de planes de mejora con enfoque agroecológico, considerando indicadores, sostenibilidad y articulación de actores para fortalecer la producción y el desarrollo rural.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
@@ -330,12 +330,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

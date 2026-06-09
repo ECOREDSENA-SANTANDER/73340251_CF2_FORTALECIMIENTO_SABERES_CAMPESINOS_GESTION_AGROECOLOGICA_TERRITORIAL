@@ -56,7 +56,7 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-              texto="Pódcast: el plan de mejora: transformando el diagnóstico en acción sostenible."
+              texto="Pódcast. El plan de mejora: transformando el diagnóstico en acción sostenible."
               :audio="podcast"
           )
 
@@ -171,19 +171,19 @@
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-8
           AcordionA(tipo="b" clase-tarjeta="tarjeta bg-brown")
-            .row.justify-content-center.mb-0.align-items-end(titulo="Fortalezas (Factores internos positivos)")
+            .row.justify-content-center.mb-0.align-items-end(titulo="Fortalezas (factores internos positivos)")
               .col-12
                 p.mb-4 Corresponden a los recursos, capacidades y condiciones favorables con las que cuenta el predio. Estas pueden incluir la experiencia del productor, la fertilidad del suelo, la disponibilidad de agua, la diversidad de cultivos o el uso de prácticas sostenibles.
-                p.mb-0 #[b NOTA:] Su identificación permite potenciar lo que ya funciona adecuadamente.
-            .row.justify-content-center.mb-0.align-items-end(titulo="Debilidades (Factores internos a mejorar)")
+                p.mb-0 #[b NOTA:] su identificación permite potenciar lo que ya funciona adecuadamente.
+            .row.justify-content-center.mb-0.align-items-end(titulo="Debilidades (factores internos a mejorar)")
               .col-12
                 p.mb-4 Son limitaciones dentro del sistema productivo que afectan su desempeño. Pueden estar relacionadas con deficiencias técnicas, baja productividad, falta de infraestructura, escasa planificación o limitaciones en el acceso a insumos.
                 p.mb-0 #[b NOTA:] reconocerlas es clave para priorizar acciones de mejora.
-            .row.justify-content-center.mb-0.align-items-end(titulo="Oportunidades (Factores externos favorables)")
+            .row.justify-content-center.mb-0.align-items-end(titulo="Oportunidades (factores externos favorables)")
               .col-12
                 p.mb-4 Son condiciones del entorno que pueden ser aprovechadas para mejorar el sistema productivo, como programas de apoyo institucional, acceso a nuevos mercados, avances tecnológicos o condiciones climáticas favorables.
                 p.mb-0 #[b NOTA:] permiten ampliar las posibilidades de crecimiento y desarrollo.
-            .row.justify-content-center.mb-0.align-items-end(titulo="Amenazas (Factores externos de riesgo)")
+            .row.justify-content-center.mb-0.align-items-end(titulo="Amenazas (factores externos de riesgo)")
               .col-12
                 p.mb-4 Son situaciones externas que pueden afectar negativamente el predio, como variabilidad climática, plagas y enfermedades, fluctuación de precios o dificultades en la comercialización.
                 p.mb-0 #[b NOTA:] su identificación permite anticipar riesgos y diseñar estrategias de mitigación. 

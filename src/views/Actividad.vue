@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -84,7 +84,7 @@ export default {
             { id: 'd', texto: 'Producción industrial.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -112,7 +112,7 @@ export default {
             { id: 'd', texto: 'Disminuir la producción.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -132,7 +132,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -160,7 +160,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -192,7 +192,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -224,7 +224,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -248,7 +248,7 @@ export default {
             { id: 'd', texto: 'Medir la producción.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -268,7 +268,7 @@ export default {
             { id: 'd', texto: 'Calcular costos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -288,7 +288,7 @@ export default {
             { id: 'd', texto: 'Eliminar información.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -308,7 +308,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -332,7 +332,7 @@ export default {
             { id: 'd', texto: 'El mercado internacional.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -352,7 +352,7 @@ export default {
             { id: 'd', texto: 'Preparar el suelo.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -384,7 +384,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -416,7 +416,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -436,7 +436,7 @@ export default {
             { id: 'd', texto: 'Eliminar recursos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -456,7 +456,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -476,7 +476,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -496,7 +496,7 @@ export default {
             { id: 'd', texto: 'Eliminar alianzas.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },
@@ -520,7 +520,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la caracterización del sistema productivo campesino y diseño de planes de mejora.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
           mensaje_incorrecto:
             'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la Caracterización del sistema productivo campesino y diseño de planes de mejora.',
         },

@@ -162,7 +162,7 @@
             tr
               td Uso de abonos orgánicos
               td Incorporación de materia orgánica para mejorar la fertilidad y estructura del suelo, estimulando la actividad biológica.
-              td Compost con residuos de cocina, #[i lombricompost] (humus de lombriz), estiércol curtido.
+              td #[i Compost] con residuos de cocina, #[i lombricompost] (humus de lombriz), estiércol curtido.
               td Mejora la calidad del suelo, reduce uso de fertilizantes químicos y aumenta la productividad.
 
             tr
@@ -210,8 +210,8 @@
             tr
               td Reciclaje de residuos orgánicos
               td Reutilización de desechos del predio para incorporarlos nuevamente al sistema productivo.
-              td Restos de cosecha convertidos en compost o alimento animal.
-              td Restos de cosecha convertidos en compost o alimento animal. Reduce desperdicios y costos de producción.
+              td Restos de cosecha convertidos en #[i compost] o alimento animal.
+              td Reduce desperdicios y costos de producción.
 
             tr
               td Uso de semillas criollas
@@ -262,7 +262,7 @@
             tr
               td Suelo
               td Recurso fundamental donde se desarrollan los cultivos y habitan microorganismos.
-              td Suelos con alto contenido de materia orgánica manejados con compost.
+              td Suelos con alto contenido de materia orgánica manejados con #[i compost].
               td Sostiene la producción, almacena nutrientes y agua.
 
             tr
@@ -354,7 +354,7 @@
             tr
               td Cercas vivas
               td Barreras vegetales que delimitan el predio.
-              td Barreras vegetales que delimitan el predio. Árboles como matarratón, leucaena o nacedero.
+              td Árboles como matarratón, #[i leucaena] o nacedero.
               td Refugio de fauna, protección contra el viento y sombra.
 
             tr
@@ -607,7 +607,7 @@
             tr
               td 3. Sustitución de prácticas
               td Reemplazo de insumos químicos por alternativas agroecológicas.
-              td Uso de compost, biofertilizantes y extractos naturales para plagas.
+              td Uso de #[i compost], biofertilizantes y extractos naturales para plagas.
 
             tr
               td 4. Rediseño del sistema productivo
@@ -664,7 +664,7 @@
             tr
               td Uso de abonos orgánicos
               td Incorporación de materia orgánica natural al suelo.
-              td Compost, #[i lombricompost], estiércol.
+              td #[i Compost], #[i lombricompost], estiércol.
               td Mejora la fertilidad y estructura del suelo.
 
             tr

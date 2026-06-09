@@ -33,7 +33,7 @@
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/t2/4.svg', alt='')
             .col-sm-12.col-lg-10
-                p.mb-0 El uso de herramientas territoriales y participativas —como mapas parlantes, transectos, entrevistas, encuestas, líneas de tiempo y matrices de priorización— facilita la recolección de información cualitativa y cuantitativa de manera organizada y confiable. Estas herramientas no solo permiten obtener datos relevantes, sino que también fomentan la interacción, el análisis colectivo y la construcción conjunta del conocimiento, fortaleciendo el trabajo en equipo y la cohesión social.
+                p.mb-0 El uso de herramientas territoriales y participativas (como mapas parlantes, transectos, entrevistas, encuestas, líneas de tiempo y matrices de priorización) facilita la recolección de información cualitativa y cuantitativa de manera organizada y confiable. Estas herramientas no solo permiten obtener datos relevantes, sino que también fomentan la interacción, el análisis colectivo y la construcción conjunta del conocimiento, fortaleciendo el trabajo en equipo y la cohesión social.
           p.mb-0 De igual manera, este componente enfatiza la importancia del análisis e interpretación de la información recolectada, permitiendo al aprendiz comprender las causas de las problemáticas, identificar relaciones entre los diferentes factores del sistema y proponer alternativas de solución viables y sostenibles. Este proceso contribuye a la toma de decisiones informadas, ajustadas a las condiciones reales del contexto.
       p.mb-0(data-aos='fade-right') Finalmente, el diagnóstico participativo y el uso de herramientas territoriales se constituyen en una base fundamental para la planificación y el mejoramiento de los sistemas productivos, ya que permiten diseñar estrategias acordes con las necesidades del territorio, promover el uso sostenible de los recursos naturales y fortalecer la autonomía y el desarrollo de las comunidades rurales. De esta manera, el aprendiz adquiere competencias para intervenir de manera responsable, participativa y efectiva en los procesos de desarrollo rural.
       
@@ -82,7 +82,7 @@
       p.mb-5(data-aos='fade-right') Finalmente, estos elementos contribuyen a generar un conocimiento integral y contextualizado, que no solo permite entender el estado actual del sistema, sino también identificar oportunidades de mejora, riesgos y potencialidades. De esta forma, el diagnóstico participativo se convierte en una herramienta clave para la planificación, la toma de decisiones informadas y la implementación de acciones orientadas al desarrollo sostenible y al fortalecimiento de los sistemas productivos.
       
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-         p.mb-0  #[b Tabla 10.] Elementos del diagnóstico participativo.
+         p.mb-0  #[b Tabla 10.] Elementos del diagnóstico participativo
       .tabla-a.color-acento-contenido.mb-5(data-aos='fade-right')
         table
           thead
